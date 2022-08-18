@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArnoldRex
+- 👋 Hi, I’m ArnoldRex
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on soffrware projects
